@@ -15,6 +15,7 @@ dependencies = [
     "pgmpy>=1.1.2",
     "pomegranate>=1.1.2",
     "py-dempster-shafer>=0.7",
+    "pygraphviz>=2.0.3",
     "scikit-learn>=1.9.0",
     "scipy>=1.18.1",
     "tabulate>=0.10.0",
